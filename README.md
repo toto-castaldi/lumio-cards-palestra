@@ -73,7 +73,7 @@ language: it
 
 ### Requisiti
 
-- `title` e almeno un `tag` ([formato card](https://github.com/toto-castaldi/lumio/blob/v0.1.1/docs/CARD-FORMAT-SPEC.md))
+- `title` e almeno un `tag` ([formato card](https://github.com/toto-castaldi/lumio/blob/v0.6.1/docs/CARD-FORMAT-SPEC.md))
 - Contenuto chiaro e verificato
 - Immagini in `/assets/` con percorsi relativi (`../assets/file.png`)
 - **Riferimenti obbligatori** in fondo a ogni card
