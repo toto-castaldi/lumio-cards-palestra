@@ -9,7 +9,7 @@ Deck di flashcard per **Personal Trainer** e appassionati di fitness. Ogni carta
 
 [![Lumio](https://img.shields.io/badge/Lumio-Deck-blue)](https://lumio.toto-castaldi.com)
 [![License: CC0](https://img.shields.io/badge/License-CC0-green)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![Cards](https://img.shields.io/badge/Cards-2-orange)](./cards)
+[![Cards](https://img.shields.io/badge/Cards-3-orange)](./cards)
 
 ## Contenuto
 
