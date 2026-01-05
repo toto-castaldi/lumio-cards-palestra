@@ -13,7 +13,7 @@ language: it
 
 ## Immagine
 
-![Walking Lunge - Wikimedia Commons](../assets/512px-Walking_lunges_4.png)
+![Affondo in Camminata](../assets/ChatGPT-affondi-in-camminata.png)
 
 
 ## Descrizione
@@ -60,4 +60,4 @@ L'affondo in camminata (walking lunge) è una delle varianti più complete degli
 - [Affondi - Melarossa](https://www.melarossa.it/fitness/workout/affondi/)
 - [Affondi - Alessio Ferlito](https://www.alessioferlito.it/article/affondi/)
 - [Gli affondi - Umberto Miletto](https://umbertomiletto.com/gli-affondi-tecnica-errori-comuni-e-schede-gratuite/)
-- Immagine: [Wikimedia Commons - Walking lunges 4.svg](https://commons.wikimedia.org/wiki/File:Walking_lunges_4.svg) (CC0/Public Domain)
+- Immagine: generata con ChatGPT

@@ -13,7 +13,7 @@ language: it
 
 ## Immagine
 
-![Allungamento Dorsale da Supino](../assets/Apanasana-Knees-to-chest-Pose-356994-pixahive.jpg)
+![Allungamento Dorsale da Supino](../assets/ChatGPT-stretching-supinto-ginocchia-alle-braccia.png)
 
 ## Descrizione
 
@@ -73,4 +73,4 @@ Esercizio di stretching in cui, da posizione supina, si portano le ginocchia al 
 - [Esercizi stretching schiena - HiPRO Danone](https://www.hipro-danone.it/esercizi-di-stretching-per-la-zona-lombare-da-includere-nel-tuo-programma-di-allenamento/)
 - [Stretching schiena bassa - Donatif](https://www.donatif.com/it/blog/allenamento-ed-esercizi/stretching-mattutino-schiena-bassa)
 - [Esercizi per lombalgia - Stefani Sport](https://stefanisport.it/esercizi-per-lombalgia/)
-- Immagine: [PixaHive - Apanasana](https://pixahive.com/photo/apanasana-knees-to-chest-pose/) (CC0)
+- Immagine: generata con ChatGPT

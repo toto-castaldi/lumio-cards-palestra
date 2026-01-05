@@ -12,9 +12,7 @@ language: it
 
 ## Immagine
 
-![Alzate Laterali](../assets/512px-Dumbbell-lateral-raises-1.png)
-
-*(Immagine disponibile su [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dumbbell-lateral-raises-1.png))*
+![Alzate Laterali](../assets/ChatGPT-alzate-laterali.png)
 
 ## Descrizione
 
@@ -70,4 +68,4 @@ Esercizio di isolamento per le spalle che consiste in un'abduzione dell'omero su
 - [Alzate laterali con manubri - Alessio Ferlito](https://www.alessioferlito.it/article/alzate-laterali/)
 - [Cosa allenano le alzate laterali - My Personal Trainer](https://www.my-personaltrainer.it/allenamento/cosa-allenano-le-alzate-laterali-come-si-fanno.html)
 - [Guida completa alzate laterali - StarClub Fitness](https://starclubfitness.com/guida-completa-alle-alzate-laterali/)
-- Immagine: [Wikimedia Commons - Dumbbell lateral raises](https://commons.wikimedia.org/wiki/File:Dumbbell-lateral-raises-1.png)
+- Immagine: generata con ChatGPT

@@ -105,7 +105,7 @@ Le informazioni contenute in queste carte sono a scopo educativo. Prima di esegu
 Questo deck può essere creato/modificato con l'aiuto di Claude o altri AI. Prompt suggerito:
 
 ```
-Leggi CLAUDE.md per le istruzioni.
+Leggi CLAUDE.md e README.md per le istruzioni.
 Aiutami a creare una nuova card sull'esercizio [NOME ESERCIZIO].
 ```
 
