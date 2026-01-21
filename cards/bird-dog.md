@@ -17,7 +17,10 @@ language: it
 
 ## Descrizione
 
-Esercizio a corpo libero fondamentale per rafforzare il core e prevenire il mal di schiena. Considerato da Stuart McGill (esperto mondiale di biomeccanica della colonna) uno degli esercizi essenziali per allenare il core e migliorare la propriocezione.
+Esercizio a corpo libero fondamentale per rafforzare il core e prevenire il
+mal di schiena. Considerato da Stuart McGill (esperto mondiale di biomeccanica
+della colonna) uno degli esercizi essenziali per allenare il core e migliorare
+la propriocezione.
 
 ## Muscoli Coinvolti
 
@@ -41,13 +44,13 @@ Esercizio a corpo libero fondamentale per rafforzare il core e prevenire il mal 
 
 ## Varianti
 
-| Variante | Difficoltà | Note |
-|----------|------------|------|
-| Base | Facile | Mantieni 3-5 secondi |
-| Con pausa prolungata | Media | Mantieni 10-15 secondi |
-| Con pesi | Media | Cavigliere e manubri leggeri |
-| Su panca | Difficile | Piedi sospesi, maggiore instabilità |
-| Da posizione push-up | Difficile | Core molto più ingaggiato |
+| Variante              | Difficoltà | Note                              |
+| --------------------- | ---------- | --------------------------------- |
+| Base                  | Facile     | Mantieni 3-5 secondi              |
+| Con pausa prolungata  | Media      | Mantieni 10-15 secondi            |
+| Con pesi              | Media      | Cavigliere e manubri leggeri      |
+| Su panca              | Difficile  | Piedi sospesi, maggiore instabil. |
+| Da posizione push-up  | Difficile  | Core molto più ingaggiato         |
 
 ## Benefici
 

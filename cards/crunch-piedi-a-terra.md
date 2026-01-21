@@ -15,11 +15,14 @@ language: it
 
 ## Descrizione
 
-Il crunch a terra è l'esercizio fondamentale per gli addominali. Consiste nel flettere la colonna avvicinando le costole al bacino, mantenendo i piedi appoggiati a terra. Semplice ma efficace per sviluppare il retto addominale.
+Il crunch a terra è l'esercizio fondamentale per gli addominali. Consiste nel
+flettere la colonna avvicinando le costole al bacino, mantenendo i piedi
+appoggiati a terra. Semplice ma efficace per sviluppare il retto addominale.
 
 ## Muscoli Coinvolti
 
-- **Retto dell'addome**: muscolo principale, responsabile della flessione della colonna
+- **Retto dell'addome**: muscolo principale, responsabile della flessione
+  della colonna
 - **Obliqui**: lavorano come stabilizzatori durante il movimento
 - **Trasverso dell'addome**: attivo per la stabilità del core
 
@@ -35,12 +38,12 @@ Il crunch a terra è l'esercizio fondamentale per gli addominali. Consiste nel f
 
 ## Varianti
 
-| Variante | Effetto |
-|----------|---------|
-| Braccia incrociate sul petto | Riduce la difficoltà |
-| Braccia tese sopra la testa | Aumenta la leva e la difficoltà |
-| Crunch obliqui | Coinvolge maggiormente gli obliqui |
-| Crunch inverso | Focus sulla parte bassa dell'addome |
+| Variante                     | Effetto                            |
+| ---------------------------- | ---------------------------------- |
+| Braccia incrociate sul petto | Riduce la difficoltà               |
+| Braccia tese sopra la testa  | Aumenta la leva e la difficoltà    |
+| Crunch obliqui               | Coinvolge maggiormente gli obliqui |
+| Crunch inverso               | Focus sulla parte bassa addominale |
 
 ## Errori Comuni
 

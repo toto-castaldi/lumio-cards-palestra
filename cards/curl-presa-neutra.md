@@ -16,7 +16,10 @@ language: it
 
 ## Descrizione
 
-Il curl con presa neutra, detto anche hammer curl o curl a martello, è un esercizio per le braccia con impugnatura verticale. Rispetto al curl classico, enfatizza maggiormente il brachiale e il brachioradiale, contribuendo a braccia più spesse e avambracci sviluppati.
+Il curl con presa neutra, detto anche hammer curl o curl a martello, è un
+esercizio per le braccia con impugnatura verticale. Rispetto al curl classico,
+enfatizza maggiormente il brachiale e il brachioradiale, contribuendo a
+braccia più spesse e avambracci sviluppati.
 
 ## Muscoli Coinvolti
 
@@ -37,12 +40,12 @@ Il curl con presa neutra, detto anche hammer curl o curl a martello, è un eserc
 
 ## Varianti
 
-| Variante | Effetto |
-|----------|---------|
-| Alternato | Permette maggiore concentrazione su ogni braccio |
-| Su panca inclinata | Maggiore stretch del bicipite |
-| Ai cavi | Tensione costante durante tutto il ROM |
-| Cross-body | Il manubrio sale verso la spalla opposta |
+| Variante           | Effetto                                    |
+| ------------------ | ------------------------------------------ |
+| Alternato          | Permette maggiore concentrazione per lato  |
+| Su panca inclinata | Maggiore stretch del bicipite              |
+| Ai cavi            | Tensione costante durante tutto il ROM     |
+| Cross-body         | Il manubrio sale verso la spalla opposta   |
 
 ## Errori Comuni
 

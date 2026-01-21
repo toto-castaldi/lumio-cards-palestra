@@ -18,7 +18,9 @@ language: it
 
 ## Descrizione
 
-Posizione di riposo yoga che allunga dolcemente la schiena, i fianchi e le cosce. Il nome deriva dal sanscrito "bala" (bambino) e "asana" (posizione). Ideale come pausa durante l'allenamento o per concludere una sessione.
+Posizione di riposo yoga che allunga dolcemente la schiena, i fianchi e le
+cosce. Il nome deriva dal sanscrito "bala" (bambino) e "asana" (posizione).
+Ideale come pausa durante l'allenamento o per concludere una sessione.
 
 ## Muscoli Coinvolti
 
@@ -43,12 +45,12 @@ Posizione di riposo yoga che allunga dolcemente la schiena, i fianchi e le cosce
 
 ## Varianti
 
-| Variante | Effetto |
-|----------|---------|
-| Braccia lungo i fianchi | Maggior rilassamento delle spalle |
-| Ginocchia divaricate | Maggior spazio per l'addome, adatta in gravidanza |
-| Braccia estese (Extended Child's Pose) | Maggior allungamento di spalle e dorsali |
-| Con cuscino sotto il petto | Supporto per chi ha difficoltà a piegarsi |
+| Variante                   | Effetto                                    |
+| -------------------------- | ------------------------------------------ |
+| Braccia lungo i fianchi    | Maggior rilassamento delle spalle          |
+| Ginocchia divaricate       | Maggior spazio per addome, per gravidanza  |
+| Braccia estese (Extended)  | Maggior allungamento di spalle e dorsali   |
+| Con cuscino sotto il petto | Supporto per chi ha difficoltà a piegarsi  |
 
 ## Benefici
 

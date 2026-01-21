@@ -17,14 +17,19 @@ language: it
 
 ## Descrizione
 
-Le circonduzioni delle anche sono un esercizio di mobilizzazione articolare che consiste nel ruotare l'anca in modo circolare. Fondamentale nel riscaldamento, prepara l'articolazione coxofemorale all'allenamento aumentando la produzione di liquido sinoviale.
+Le circonduzioni delle anche sono un esercizio di mobilizzazione articolare
+che consiste nel ruotare l'anca in modo circolare. Fondamentale nel
+riscaldamento, prepara l'articolazione coxofemorale all'allenamento
+aumentando la produzione di liquido sinoviale.
 
 ## Muscoli Coinvolti
 
-- **Glutei (grande e medio)**: responsabili dell'estensione e abduzione dell'anca
+- **Glutei (grande e medio)**: responsabili dell'estensione e abduzione
+  dell'anca
 - **Flessori dell'anca**: attivati nella fase anteriore del cerchio
 - **Adduttori**: coinvolti quando la gamba si avvicina alla linea mediana
-- **Core (trasverso dell'addome e obliqui)**: stabilizzano il tronco durante il movimento
+- **Core (trasverso dell'addome e obliqui)**: stabilizzano il tronco durante
+  il movimento
 
 ## Esecuzione
 
@@ -38,12 +43,12 @@ Le circonduzioni delle anche sono un esercizio di mobilizzazione articolare che 
 
 ## Varianti
 
-| Variante | Descrizione |
-|----------|-------------|
-| In quadrupedia | A quattro zampe, solleva il ginocchio lateralmente descrivendo cerchi |
-| Con appoggio | Mani al muro per maggiore stabilità |
-| Cerchi piccoli/grandi | Inizia con cerchi piccoli, aumenta gradualmente l'ampiezza |
-| In piedi con gamba tesa | Ruota l'intera gamba tesa (più impegnativo) |
+| Variante               | Descrizione                                      |
+| ---------------------- | ------------------------------------------------ |
+| In quadrupedia         | Solleva ginocchio lateralmente in cerchi         |
+| Con appoggio           | Mani al muro per maggiore stabilità              |
+| Cerchi piccoli/grandi  | Inizia piccoli, aumenta gradualmente l'ampiezza  |
+| In piedi con gamba tesa| Ruota l'intera gamba tesa (più impegnativo)      |
 
 ## Errori Comuni
 

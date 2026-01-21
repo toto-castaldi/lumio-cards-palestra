@@ -16,7 +16,9 @@ language: it
 
 ## Descrizione
 
-Esercizio di isolamento per le spalle che consiste in un'abduzione dell'omero sul piano frontale. L'obiettivo principale è allenare il capo laterale (mediale) del deltoide per sviluppare spalle larghe e definite.
+Esercizio di isolamento per le spalle che consiste in un'abduzione dell'omero
+sul piano frontale. L'obiettivo principale è allenare il capo laterale
+(mediale) del deltoide per sviluppare spalle larghe e definite.
 
 ## Muscoli Coinvolti
 
@@ -38,12 +40,12 @@ Esercizio di isolamento per le spalle che consiste in un'abduzione dell'omero su
 
 ## Varianti
 
-| Variante | Effetto |
-|----------|---------|
-| Ai cavi | Tensione costante durante tutto il ROM |
+| Variante           | Effetto                                    |
+| ------------------ | ------------------------------------------ |
+| Ai cavi            | Tensione costante durante tutto il ROM     |
 | Su panca inclinata | Diverso angolo di lavoro, maggiore stretch |
-| Unilaterale | Corregge squilibri muscolari |
-| Con elastici | Resistenza progressiva |
+| Unilaterale        | Corregge squilibri muscolari               |
+| Con elastici       | Resistenza progressiva                     |
 
 ## Errori Comuni
 

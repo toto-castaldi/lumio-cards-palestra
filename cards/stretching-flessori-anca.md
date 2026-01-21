@@ -17,7 +17,10 @@ language: it
 
 ## Descrizione
 
-Esercizio di allungamento per i flessori dell'anca, in particolare l'ileo-psoas. Eseguito in posizione di affondo con il ginocchio posteriore a terra, è fondamentale per chi passa molte ore seduto e per migliorare la mobilità dell'anca.
+Esercizio di allungamento per i flessori dell'anca, in particolare
+l'ileo-psoas. Eseguito in posizione di affondo con il ginocchio posteriore
+a terra, è fondamentale per chi passa molte ore seduto e per migliorare la
+mobilità dell'anca.
 
 ## Muscoli Coinvolti
 
@@ -39,12 +42,12 @@ Esercizio di allungamento per i flessori dell'anca, in particolare l'ileo-psoas.
 
 ## Varianti
 
-| Variante | Effetto |
-|----------|---------|
-| Mani dietro la schiena | Maggiore sfida per l'equilibrio |
-| Braccio alzato (stesso lato) | Aumenta l'allungamento laterale |
-| Con rotazione del busto | Coinvolge anche gli obliqui |
-| Piede posteriore sollevato | Aggiunge stretch al quadricipite |
+| Variante                     | Effetto                           |
+| ---------------------------- | --------------------------------- |
+| Mani dietro la schiena       | Maggiore sfida per l'equilibrio   |
+| Braccio alzato (stesso lato) | Aumenta l'allungamento laterale   |
+| Con rotazione del busto      | Coinvolge anche gli obliqui       |
+| Piede posteriore sollevato   | Aggiunge stretch al quadricipite  |
 
 ## Errori Comuni
 

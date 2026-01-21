@@ -17,11 +17,14 @@ language: it
 
 ## Descrizione
 
-Esercizio di stretching in cui, da posizione supina, si portano le ginocchia al petto. Uno degli esercizi più efficaci per sciogliere la zona lombare, semplice e adatto a tutti.
+Esercizio di stretching in cui, da posizione supina, si portano le ginocchia
+al petto. Uno degli esercizi più efficaci per sciogliere la zona lombare,
+semplice e adatto a tutti.
 
 ## Muscoli Coinvolti
 
-- **Lombari e paravertebrali**: vengono allungati e rilassati, riducendo tensione e dolore
+- **Lombari e paravertebrali**: vengono allungati e rilassati, riducendo
+  tensione e dolore
 - **Flessori dell'anca**: l'allungamento riduce la tensione nella zona lombare
 - **Glutei**: il rilassamento contribuisce ad alleviare il mal di schiena
 - **Ischiocrurali**: spesso i dolori lombari derivano da tensioni in questi muscoli
@@ -37,11 +40,11 @@ Esercizio di stretching in cui, da posizione supina, si portano le ginocchia al 
 
 ## Varianti
 
-| Variante | Descrizione |
-|----------|-------------|
-| Singola gamba | Una gamba alla volta, l'altra resta distesa |
-| Entrambe le ginocchia | Maggiore allungamento lombare |
-| Con rotazione | Ruota i fianchi da una parte e dall'altra mantenendo le ginocchia al petto |
+| Variante              | Descrizione                                        |
+| --------------------- | -------------------------------------------------- |
+| Singola gamba         | Una gamba alla volta, l'altra resta distesa        |
+| Entrambe le ginocchia | Maggiore allungamento lombare                      |
+| Con rotazione         | Ruota i fianchi mantenendo le ginocchia al petto   |
 
 ## Benefici
 

@@ -17,7 +17,10 @@ language: it
 
 ## Descrizione
 
-Le circonduzioni delle ginocchia sono un esercizio di mobilizzazione articolare che prepara ginocchia e caviglie all'allenamento. Movimento semplice e fondamentale nel riscaldamento, aiuta ad alleviare rigidità e prevenire infortuni.
+Le circonduzioni delle ginocchia sono un esercizio di mobilizzazione
+articolare che prepara ginocchia e caviglie all'allenamento. Movimento
+semplice e fondamentale nel riscaldamento, aiuta ad alleviare rigidità
+e prevenire infortuni.
 
 ## Muscoli Coinvolti
 
@@ -37,12 +40,12 @@ Le circonduzioni delle ginocchia sono un esercizio di mobilizzazione articolare 
 
 ## Varianti
 
-| Variante | Descrizione |
-|----------|-------------|
-| Cerchi piccoli | Movimento ridotto, ideale per iniziare |
-| Cerchi ampi | Maggiore mobilizzazione articolare |
-| Singola gamba | Una gamba alla volta per lavoro più specifico |
-| Con peso | Tenendo un kettlebell per maggiore attivazione |
+| Variante       | Descrizione                                    |
+| -------------- | ---------------------------------------------- |
+| Cerchi piccoli | Movimento ridotto, ideale per iniziare         |
+| Cerchi ampi    | Maggiore mobilizzazione articolare             |
+| Singola gamba  | Una gamba alla volta per lavoro più specifico  |
+| Con peso       | Tenendo un kettlebell per maggiore attivazione |
 
 ## Errori Comuni
 

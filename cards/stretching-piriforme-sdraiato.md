@@ -17,7 +17,10 @@ language: it
 
 ## Descrizione
 
-Esercizio di allungamento per il muscolo piriforme eseguito in posizione supina. Fondamentale per chi soffre di tensioni al gluteo o sindrome del piriforme, aiuta a prevenire la compressione del nervo sciatico e migliora la mobilità dell'anca.
+Esercizio di allungamento per il muscolo piriforme eseguito in posizione
+supina. Fondamentale per chi soffre di tensioni al gluteo o sindrome del
+piriforme, aiuta a prevenire la compressione del nervo sciatico e migliora
+la mobilità dell'anca.
 
 ## Muscoli Coinvolti
 
@@ -39,12 +42,12 @@ Esercizio di allungamento per il muscolo piriforme eseguito in posizione supina.
 
 ## Varianti
 
-| Variante | Effetto |
-|----------|---------|
-| Senza tirare la coscia | Versione più leggera per principianti |
-| Gamba d'appoggio tesa a terra | Maggiore isolamento del piriforme |
-| Seduto su sedia | Versione da ufficio |
-| In piedi (pigeon stretch) | Versione più avanzata |
+| Variante                      | Effetto                              |
+| ----------------------------- | ------------------------------------ |
+| Senza tirare la coscia        | Versione più leggera per principianti|
+| Gamba d'appoggio tesa a terra | Maggiore isolamento del piriforme    |
+| Seduto su sedia               | Versione da ufficio                  |
+| In piedi (pigeon stretch)     | Versione più avanzata                |
 
 ## Errori Comuni
 

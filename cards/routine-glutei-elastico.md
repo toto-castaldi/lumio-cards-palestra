@@ -16,7 +16,10 @@ language: it
 
 ## Descrizione
 
-Routine a 4 fasi per l'attivazione e il rinforzo dei glutei utilizzando una banda elastica. Gli esercizi vengono eseguiti in posizione quadrupede e in ginocchio, permettendo di isolare efficacemente i glutei con resistenza progressiva.
+Routine a 4 fasi per l'attivazione e il rinforzo dei glutei utilizzando una
+banda elastica. Gli esercizi vengono eseguiti in posizione quadrupede e in
+ginocchio, permettendo di isolare efficacemente i glutei con resistenza
+progressiva.
 
 ## Muscoli Coinvolti
 

@@ -15,10 +15,11 @@ language: it
 
 ![Affondo in Camminata](../assets/ChatGPT-affondi-in-camminata.png)
 
-
 ## Descrizione
 
-L'affondo in camminata (walking lunge) è una delle varianti più complete degli affondi. Durante il movimento l'anca raggiunge la massima estensione, attivando intensamente sia il grande gluteo che il quadricipite.
+L'affondo in camminata (walking lunge) è una delle varianti più complete degli
+affondi. Durante il movimento l'anca raggiunge la massima estensione, attivando
+intensamente sia il grande gluteo che il quadricipite.
 
 ## Muscoli Coinvolti
 
@@ -31,7 +32,8 @@ L'affondo in camminata (walking lunge) è una delle varianti più complete degli
 ## Esecuzione
 
 1. Parti in posizione eretta con i piedi alla larghezza delle spalle
-2. Fai un passo in avanti e abbassa il corpo fino a formare un angolo di 90° con entrambe le ginocchia
+2. Fai un passo in avanti e abbassa il corpo fino a formare un angolo di 90°
+   con entrambe le ginocchia
 3. Mantieni la schiena dritta e il peso distribuito sui talloni
 4. Spingi in alto e in avanti con il piede anteriore
 5. Porta il piede posteriore avanti in un nuovo affondo
@@ -39,10 +41,10 @@ L'affondo in camminata (walking lunge) è una delle varianti più complete degli
 
 ## Varianti per Enfatizzare i Muscoli
 
-| Variante | Muscoli enfatizzati |
-|----------|---------------------|
-| Busto verticale + passo corto | Quadricipiti |
-| Busto inclinato + passo lungo | Glutei |
+| Variante                       | Muscoli enfatizzati |
+| ------------------------------ | ------------------- |
+| Busto verticale + passo corto  | Quadricipiti        |
+| Busto inclinato + passo lungo  | Glutei              |
 
 ## Errori Comuni
 

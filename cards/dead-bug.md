@@ -16,7 +16,10 @@ language: it
 
 ## Descrizione
 
-Il dead bug (insetto morto) è un esercizio isometrico per il core che allena la stabilizzazione della colonna vertebrale. Eseguito supini con movimenti alternati di braccia e gambe, è molto usato in riabilitazione posturale e per prevenire dolori lombari.
+Il dead bug (insetto morto) è un esercizio isometrico per il core che allena
+la stabilizzazione della colonna vertebrale. Eseguito supini con movimenti
+alternati di braccia e gambe, è molto usato in riabilitazione posturale e
+per prevenire dolori lombari.
 
 ## Muscoli Coinvolti
 
@@ -39,12 +42,12 @@ Il dead bug (insetto morto) è un esercizio isometrico per il core che allena la
 
 ## Varianti
 
-| Variante | Effetto |
-|----------|---------|
-| Solo gambe | Versione semplificata per principianti |
-| Solo braccia | Focus sulla stabilizzazione delle spalle |
-| Con banda elastica | Maggiore attivazione del core |
-| Gambe tese | Aumenta la difficoltà e la leva |
+| Variante           | Effetto                                  |
+| ------------------ | ---------------------------------------- |
+| Solo gambe         | Versione semplificata per principianti   |
+| Solo braccia       | Focus sulla stabilizzazione delle spalle |
+| Con banda elastica | Maggiore attivazione del core            |
+| Gambe tese         | Aumenta la difficoltà e la leva          |
 
 ## Errori Comuni
 
