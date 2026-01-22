@@ -10,10 +10,6 @@ difficulty: 2
 language: it
 ---
 
-## Immagine
-
-![Routine Glutei con Elastico](../assets/routine-glutei-elastico.png)
-
 ## Descrizione
 
 Routine a 4 fasi per l'attivazione e il rinforzo dei glutei utilizzando una
@@ -118,5 +114,5 @@ progressiva.
 
 ### Riferimenti
 
-- Video originale: [Instagram Reel - @mangesdesfruits](https://www.instagram.com/reel/DSw7SA4jSPf/)
-- Immagini: screenshot dal reel Instagram di @mangesdesfruits
+- Video originale: [Instagram Reel - @diana_alexandrovaofficial](https://www.instagram.com/reel/DTwDxOvCDfX/)
+- Immagini: screenshot dal reel Instagram di @diana_alexandrovaofficial
