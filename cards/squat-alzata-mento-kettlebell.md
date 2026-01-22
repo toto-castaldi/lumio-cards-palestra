@@ -66,4 +66,4 @@ Esercizio composto che combina uno squat con un'alzata al mento usando il kettle
 - [Kettlebell Squat to Upright Row - Skimble](https://www.skimble.com/exercises/2149-kettlebell-squat-to-upright-row-how-to-do-exercise)
 - [Squat & Upright Row - Sweat](https://sweat.com/exercises/squat-upright-row)
 - [Kettlebell Upright Row - Original Kettlebell](https://www.originalkettlebell.com/exercise/kettlebell-upright-row/)
-- Immagine: [Wikimedia Commons - Upright row with kettle bell](https://commons.wikimedia.org/wiki/File:Upright_row_with_kettle_bell.jpg) (CC BY-SA)
+- Immagine generata con ChatGPC
